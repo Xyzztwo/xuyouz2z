@@ -2,7 +2,10 @@
 <h3 align="center">A passionate python beginner from China</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuyouz2z&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuyouz2z)](https://github.com/xuyouz2z/github-readme-stats)
 
 
 名字：徐某人
