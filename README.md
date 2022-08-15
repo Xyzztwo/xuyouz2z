@@ -78,128 +78,11 @@ XML      5 mins          █▒░░░░░░░░░░░░░░░░�
 Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
-<!--END_SECTION:waka-->
+名字：徐某人
 
-### :sparkles: My Followers
+Github：xuyouz2z
 
-![Metrics](https://metrics.lecoq.io/itgoyo?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FShanghai)
-
-<!--START_SECTION:top-followers-->
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/snowdream">
-        <img src="https://avatars2.githubusercontent.com/u/737958" width="100px;" alt="snowdream"/>
-      </a>
-      <br />
-      <a href="https://github.com/snowdream">snowdream</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lowlighter">
-        <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
-      </a>
-      <br />
-      <a href="https://github.com/lowlighter">Simon Lecoq</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Leticia-maria">
-        <img src="https://avatars2.githubusercontent.com/u/60739184" width="100px;" alt="Leticia-maria"/>
-      </a>
-      <br />
-      <a href="https://github.com/Leticia-maria">Letícia Maria Pequeno Madureira</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/donmartz">
-        <img src="https://avatars2.githubusercontent.com/u/78443365" width="100px;" alt="donmartz"/>
-      </a>
-      <br />
-      <a href="https://github.com/donmartz">donmartz</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/jhonataT">
-        <img src="https://avatars2.githubusercontent.com/u/51134324" width="100px;" alt="jhonataT"/>
-      </a>
-      <br />
-      <a href="https://github.com/jhonataT">Jhonata Tenório</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/bitmote">
-        <img src="https://avatars2.githubusercontent.com/u/26090768" width="100px;" alt="bitmote"/>
-      </a>
-      <br />
-      <a href="https://github.com/bitmote">ZhengXiaolei</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/AlphaTechnolog">
-        <img src="https://avatars2.githubusercontent.com/u/54639968" width="100px;" alt="AlphaTechnolog"/>
-      </a>
-      <br />
-      <a href="https://github.com/AlphaTechnolog">Gabriel Guerra</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/zhuwenxing">
-        <img src="https://avatars2.githubusercontent.com/u/12268675" width="100px;" alt="zhuwenxing"/>
-      </a>
-      <br />
-      <a href="https://github.com/zhuwenxing">zhuwenxing</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/cnsuhao">
-        <img src="https://avatars2.githubusercontent.com/u/23429527" width="100px;" alt="cnsuhao"/>
-      </a>
-      <br />
-      <a href="https://github.com/cnsuhao">cnsuhao</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Matrixbirds">
-        <img src="https://avatars2.githubusercontent.com/u/9990676" width="100px;" alt="Matrixbirds"/>
-      </a>
-      <br />
-      <a href="https://github.com/Matrixbirds">matrixbirds</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/swhgoon">
-        <img src="https://avatars2.githubusercontent.com/u/840150" width="100px;" alt="swhgoon"/>
-      </a>
-      <br />
-      <a href="https://github.com/swhgoon">SwhGo_oN</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MadhavDev-prog">
-        <img src="https://avatars2.githubusercontent.com/u/13887725" width="100px;" alt="MadhavDev-prog"/>
-      </a>
-      <br />
-      <a href="https://github.com/MadhavDev-prog">suffixdev</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/victoryang00">
-        <img src="https://avatars2.githubusercontent.com/u/40686366" width="100px;" alt="victoryang00"/>
-      </a>
-      <br />
-      <a href="https://github.com/victoryang00">victoryang00</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/1834924958">
-        <img src="https://avatars2.githubusercontent.com/u/22309207" width="100px;" alt="1834924958"/>
-      </a>
-      <br />
-      <a href="https://github.com/1834924958">ye1209mx</a>
-    </td>
-  </tr>
-</table>
-<!--END_SECTION:top-followers-->
-
-名字：李狗蛋LGD
-
-Github：itgoyo
-
-微博、知乎、B站：李狗蛋LGD
-
-斗鱼房间:https://www.douyu.com/201001
-
-B站房间:https://live.bilibili.com/3519206
+微博、知乎、B站：xuyouz2z
 
 Don't be a programmer, Be a problem solver.
 
@@ -207,9 +90,9 @@ Don't be a programmer, Be a problem solver.
 
 - 📫 How to reach me:
     - :octocat: [Github@xuyouz2z](https://github.com/xuyouz2z)
-    - :email: [itgoyo@gmail.com](mailto:itgoyo@gmail.com)
+    - :email: [xubaibai922@gmail.com](mailto:xubaibai922@gmail.com)
     - :tv: [Bilibili@xuyouz2z](https://space.bilibili.com/20361156)
-    - :tv: [Youtube@itgoyo](https://www.youtube.com/channel/UC7S84dID2iBJJ89aQrQBGww)
+    - :tv: [Youtube@xuyouz2z](https://www.youtube.com/channel/UC7S84dID2iBJJ89aQrQBGww)
     - :camera:[Instagram@itgoyo](https://www.instagram.com/xuyouz2z/)
     - :bird:[twitter@itgoyo](https://twitter.com/xuyouz1/)
 
