@@ -2,7 +2,7 @@
 <h3 align="center">A passionate python beginner from China</h3>
 
 [![Mango's github stats](https://github-readme-stats.vercel.app/api?username=xuyouz2z)](https://github.com/mango-lzp/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuyouz2z)](https://github.com/anuraghazra/github-readme-stats)
 名字：徐某人
 
 Github：xuyouz2z
