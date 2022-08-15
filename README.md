@@ -208,9 +208,8 @@ Don't be a programmer, Be a problem solver.
 - 📫 How to reach me:
     - :octocat: [Github@xuyouz2z](https://github.com/xuyouz2z)
     - :email: [itgoyo@gmail.com](mailto:itgoyo@gmail.com)
-    - :tv: [Bilibili@xuyouz2z](https://space.bilibili.com/12767066)
-    - :tv: [Youtube@itgoyo](https://www.youtube.com/channel/UCpCzS_uKS1zzOAUjuuBNXDQ?view_as=subscriber)
-    - :camera:[Instagram@itgoyo](https://www.instagram.com/itgoyo1991/)
-    - :bird:[twitter@itgoyo](https://twitter.com/itgoyo/)
-
+    - :tv: [Bilibili@xuyouz2z](https://space.bilibili.com/20361156)
+    - :tv: [Youtube@itgoyo](https://www.youtube.com/channel/UC7S84dID2iBJJ89aQrQBGww)
+    - :camera:[Instagram@itgoyo](https://www.instagram.com/xuyouz2z/)
+    - :bird:[twitter@itgoyo](https://twitter.com/xuyouz1/)
 
