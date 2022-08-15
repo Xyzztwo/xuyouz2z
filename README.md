@@ -3,9 +3,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuyouz2z&show_icons=true&&theme=tokyonight)
 
-![](https://stats.justsong.cn/api/bilibili/?id=20361156&theme=dark)
-![](https://stats.justsong.cn/api/leetcode?username=xuyouz2z&cn_username=xuyouz2z)
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=435&lines=China+Boy" alt="Typing SVG" /></a>
 
 Github：xuyouz2z
