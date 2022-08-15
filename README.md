@@ -206,57 +206,11 @@ Don't be a programmer, Be a problem solver.
 公众号：v2code
 
 - 📫 How to reach me:
-    - :octocat: [Github@itgoyo](https://github.com/itgoyo)
+    - :octocat: [Github@xuyouz2z](https://github.com/xuyouz2z)
     - :email: [itgoyo@gmail.com](mailto:itgoyo@gmail.com)
-    - :tv: [Bilibili@itgoyo](https://space.bilibili.com/12767066)
+    - :tv: [Bilibili@xuyouz2z](https://space.bilibili.com/12767066)
     - :tv: [Youtube@itgoyo](https://www.youtube.com/channel/UCpCzS_uKS1zzOAUjuuBNXDQ?view_as=subscriber)
     - :camera:[Instagram@itgoyo](https://www.instagram.com/itgoyo1991/)
     - :bird:[twitter@itgoyo](https://twitter.com/itgoyo/)
 
-
-- :computer: PC/Mac:
-
-    - NUC8i7HVK 64G 2TSSD Big Sur 11.2 + Win10
-    - MacBookPro2015 16G 256SSD
-    - Mac Mini m1 16G 512SSD
-    - i7-6700k 32G 256SSD+4T RX590 MacOS Big Sur 11.1
-    - i5-4590  16G 1TSSD RX570 MacOS Catalina 10.15.7
-    - i5-10400  16G 512SSD Ubuntu20.04 + Win10
-    - i5-10400  16G 512SSD+256SSD Win10 + Big Sur 11.1
-    - TencentCloud 4Core-4G-80G-1200G/3Year Ubuntu20.04
-    - 蜗牛星际 J1900+4G +3T DSM918+
-    - 威联通QNAP TS462C 500G
-    - 威联通QNAP TVS-675 8h8c
-
-- :iphone: phone/iPhone:
-    - iPhone12
-
-- :camera: Camera:
-    - Sony A6000
-    - Sony A6400
-
-- :microphone: Mic:
-    - SM7B + ID14MKII
-    - MAONO PM320T + E2
-
-| :pencil2: | :video_game: | :book: |:clapper:  |
-| --- | --- | --- | --- |
-| [Blogs](https://itgoyo.github.io/) |[Games](https://itgoyo.github.io/games/)  | [Books](https://itgoyo.github.io/books/) | [Movies](https://itgoyo.github.io/movies/) |
-
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#291](https://github.com/itgoyo/500Days-Of-Github/issues/291) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
-2. ❗️ Opened issue [#36](https://github.com/easychen/checkchan-dist/issues/36) in [easychen/checkchan-dist](https://github.com/easychen/checkchan-dist)
-<!--END_SECTION:activity-->
-
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [打造一台用10年都不过时的顶配NAS，威联通TVS-675+西数红盘Plus+西数SSD SN700，最强拓展NAS出战挂机每月稳定挣500](https://www.youtube.com/watch?v=3NfbLe-FbMo)
-- [3款海外神级App，用了根本停不下来【Spotify、Vivacut、Telegram】](https://www.youtube.com/watch?v=Es8Gz9dUMi0)
-- [【云服务器/录播/直播】进来免费白嫖一台云服务器，我们真的需要一台云服务器吗？有一台云服务器究竟有多香？](https://www.youtube.com/watch?v=QQK7LbqWrAA)
-- [什么？你们还不知道云服务器可以用来跑自动录制脚本？用了StreamerHelper再也不用的担心错过主播的精彩集锦了，还能挣点零花钱](https://www.youtube.com/watch?v=JNsPqboq3E4)
-- [【玩客云/赚钱宝/网心云】家里闲置宽带能赚钱？数码区UP亲身体验，没用之前以为是智商税，没想到真香](https://www.youtube.com/watch?v=NnaXrI7sQuY)
-<!-- YOUTUBE:END -->
 
