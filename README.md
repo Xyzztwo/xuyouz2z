@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm xuyouz2z</h1>
 <h3 align="center">A passionate python beginner from China</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuyouz2z&show_icons=true&theme=dark or radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuyouz2z&show_icons=true&theme=radical)
 
 
 
