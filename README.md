@@ -5,6 +5,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=435&lines=China+boy" alt="Typing SVG" /></a>
 
+https://stats.justsong.cn/api/leetcode/?username=xuyouz2z&theme=dark
+
 Github：xuyouz2z
 
 微博、知乎、B站：xuyouz2z
@@ -21,4 +23,4 @@ Don't be a programmer, Be a problem solver.
     - :camera:[Instagram@itgoyo](https://www.instagram.com/xuyouz2z/)
     - :bird:[twitter@itgoyo](https://twitter.com/xuyouz1/)
 
-https://stats.justsong.cn/api/leetcode/?username=xuyouz2z&theme=dark
+
