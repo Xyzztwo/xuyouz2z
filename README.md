@@ -18,5 +18,3 @@ Github：xuyouz2z
     - :tv: [Youtube@xuyouz2z](https://www.youtube.com/channel/UC7S84dID2iBJJ89aQrQBGww)
     - :camera:[Instagram@xuyouz2z](https://www.instagram.com/xuyouz2z/)
     - :bird:[twitter@xuyouz2z](https://twitter.com/xuyouz1/)
-
-
