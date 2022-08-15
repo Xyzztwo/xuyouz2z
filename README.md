@@ -2,8 +2,6 @@
 <h3 align="center">A passionate python beginner from China</h3>
 
 
-<details open>
-
 名字：徐某人
 
 Github：xuyouz2z
