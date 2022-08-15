@@ -16,7 +16,7 @@ Github：xuyouz2z
     - :email: [xubaibai922@gmail.com](mailto:xubaibai922@gmail.com)
     - :tv: [Bilibili@xuyouz2z](https://space.bilibili.com/20361156)
     - :tv: [Youtube@xuyouz2z](https://www.youtube.com/channel/UC7S84dID2iBJJ89aQrQBGww)
-    - :camera:[Instagram@xuyouz2z(https://www.instagram.com/xuyouz2z/)
-    - :bird:[twitter@xuyouz2z(https://twitter.com/xuyouz1/)
+    - :camera:[Instagram@xuyouz2z](https://www.instagram.com/xuyouz2z/)
+    - :bird:[twitter@xuyouz2z](https://twitter.com/xuyouz1/)
 
 
