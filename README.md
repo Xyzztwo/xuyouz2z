@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm xuyouz2z</h1>
 <h3 align="center">A python beginner from China</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuyouz2z&show_icons=true&&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuyouz2z&show_icons=true&&theme=tokyonight)
 
-![](https://stats.justsong.cn/api/bilibili/?id=20361156&theme=tokyonight)
+![](https://stats.justsong.cn/api/bilibili/?id=20361156&theme=dark)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=435&lines=China+boy" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=China+boy" alt="Typing SVG" /></a>
 
 Github：xuyouz2z
 
