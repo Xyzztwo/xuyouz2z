@@ -21,3 +21,4 @@ Don't be a programmer, Be a problem solver.
     - :camera:[Instagram@itgoyo](https://www.instagram.com/xuyouz2z/)
     - :bird:[twitter@itgoyo](https://twitter.com/xuyouz1/)
 
+https://stats.justsong.cn/api/leetcode/?username=xuyouz2z&theme=dark
