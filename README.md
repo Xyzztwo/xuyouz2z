@@ -5,7 +5,7 @@
 
 ![](https://stats.justsong.cn/api/bilibili/?id=20361156&theme=dark)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=A+China+Boy" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=435&lines=China+Boy" alt="Typing SVG" /></a>
 
 Github：xuyouz2z
 
