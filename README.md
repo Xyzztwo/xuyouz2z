@@ -3,9 +3,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuyouz2z&show_icons=true&theme=tokyonight)
 
-![](https://xuyouz2z.de/urlstat?mode=github&repo=talkgo/night)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 名字：徐某人
 
