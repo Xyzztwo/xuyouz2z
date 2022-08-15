@@ -2,7 +2,7 @@
 <h3 align="center">A passionate python beginner from China</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuyouz2z&show_icons=true&theme=tokyonight)
-gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 名字：徐某人
