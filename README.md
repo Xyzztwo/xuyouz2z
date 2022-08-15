@@ -9,8 +9,6 @@ Github：xuyouz2z
 
 微博、知乎、B站：xuyouz2z
 
-Don't be a programmer, Be a problem solver.
-
 公众号：ityouzzz
 
 - 📫 How to reach me:
