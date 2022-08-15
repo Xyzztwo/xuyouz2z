@@ -3,10 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuyouz2z&show_icons=true&theme=tokyonight)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=435&lines=China+boy" alt="Typing SVG" /></a>
-
-
-名字：徐某人
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Name:China+boy" alt="Typing SVG" /></a>
 
 Github：xuyouz2z
 
