@@ -9,7 +9,7 @@ Github：xuyouz2z
 
 微博、知乎、B站：xuyouz2z
 
-公众号：ityouz2z
+公众号：you2z2
 
 - 📫 How to reach me:
     - :octocat: [Github@xuyouz2z](https://github.com/xuyouz2z)
