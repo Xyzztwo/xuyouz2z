@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm xuyouz2z</h1>
 <h3 align="center">A python beginner from China</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuyouz2z&show_icons=true&&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xyzztwo&show_icons=true&&theme=tokyonight)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&width=435&lines=China+Boy" alt="Typing SVG" /></a>
 
